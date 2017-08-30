@@ -1,0 +1,84 @@
+body {
+    font-family: "Calibri";
+    background-color: #202020;
+}
+
+a {
+    color: #202020;
+}
+
+a:hover {
+    color: #202020;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.title {
+    text-align: left;
+    color: black;
+    background-color: #f9db2a;
+    letter-spacing: 2px;
+    position: fixed;
+    top: 0px;
+    height: 8%;
+    width: 100%;
+    margin-left: -7px;
+    margin-top: -15px;
+}
+
+.mision {
+    font-size: 150%;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color:#202020;
+    border-color: #f9db2a;
+    letter-spacing: 3px;
+    text-indent: 50px;
+    color: #f9db2a
+
+}
+
+.vision {
+    font-size: 150%;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color:#202020;
+    border-color: #f9db2a
+    letter-spacing: 3px;
+    text-indent: 50px;
+    color: #f9db2a;
+
+}
+
+.headmision{
+    font-size: 200%;
+    text-align: center;
+	color:#f9db2a;
+	margin-top: 100px;
+	margin-left: 50%;
+}
+
+.headvision{
+    font-size: 200%;
+    text-align: center;
+	color:#f9db2a;
+	margin-top: -40px;
+	margin-left: 50%;
+}
+
+
+.titulo{
+	font-family: ""
+	text-align: left;
+	color: black;
+	margin-top: 10px;
+	margin-left: 110px;
+	font-size: 200%;
+	letter-spacing: 10px;
+}

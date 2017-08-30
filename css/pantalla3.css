@@ -1,0 +1,73 @@
+body 
+{
+	
+font-family: "Calibri";
+
+}
+
+
+
+a {
+
+color: black;
+
+}
+
+
+
+a:hover 
+{
+	
+color: black;
+
+}
+
+
+
+a:link 
+{
+	
+text-decoration: none;
+
+}
+
+
+.title {
+	
+text-align: left;
+	
+color: black;
+	
+background-color: #f9db2a;
+	
+letter-spacing: 2px;
+
+}
+
+
+
+.header
+{
+	
+text-align: center;
+	
+font-family: helvetica;
+	
+font-size: 60px;
+	
+margin-top: 50px;
+	
+margin-bottom: 50px;
+	
+color: #f9db2a;
+	
+letter-spacing: 2px;
+
+}
+
+
+.imagen
+{
+margin-left:200x;
+margin-top:-10px;
+}

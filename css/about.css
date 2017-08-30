@@ -1,0 +1,79 @@
+body {
+	font-family: "Calibri";
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: black;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.header {
+	text-align: left;
+	color: black;
+	background-color: #f9db2a;
+	letter-spacing: 2px;
+}
+
+.btnBack {
+	background-image: url(../imagenes/fAbout.jpg);
+	background-repeat: no-repeat;
+	margin-left: -5px;
+	margin-top: -20px;
+	min-height: 25%;
+	min-width: 100%;
+}
+
+.btn {
+	border-radius: 10px;
+	background-color: #f9db2a;
+	margin-left: 20px;
+	margin-top: 20px;
+	min-width: 8%;
+	min-height: 5%;
+	color: indigo;
+	font-size: 20px;
+}
+
+.btn:hover {
+	background-color: black;
+	color: white;
+}
+
+.title {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 300%;
+	color: #f9db2a;
+	letter-spacing: 3px;
+}
+
+.descripcion {
+	margin-left: 10px;
+	letter-spacing: 2px;
+}
+
+.txt {
+	font-size: 150%;
+	margin-top: 0px;
+	margin-left: 50px;
+	margin-right: 100px;
+	text-align: justify;
+	text-indent: 50px;
+	color: black;
+}
+
+.table {
+	border: 0px;
+}
+
+.image {
+	max-height: 50%;
+	margin-right: 70px;
+}
